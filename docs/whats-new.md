@@ -13,6 +13,19 @@ For minor typo corrections or administrative site fixes, see the [Git Commit His
 
 ### October 2026
 
+???+ note "October 20, 2026 — Command Post Networking, GL.iNet & Starlink Guides"
+    **What Changed:** Added a comprehensive field networking suite under **Communications**, consisting of:
+    1. **Command Post Networking & Internet Guide**: Core architecture for $0/month offline LANs, shared printing, outside uplinks, field data budgeting (10 GB/day benchmarks, Windows Metered Connection), and Canadian cost-recovery rules.
+    2. **GL.iNet Travel Routers for Command Posts**: Hardware guide for low-cost portable routers, setting up permanent CP-WiFi, firehall repeater mode, and USB phone tethering.
+    3. **Starlink for Ground SAR**: Satellite broadband deployment, Standard vs. Mini hardware, 12V cold-weather DC power, Canadian standby billing ($7/mo), and the mid-incident upgrade playbook for 100% cost recovery.
+
+    - **Scope:** 3 new operational resource guides under Communications.
+    - **Resources:**
+        - [:material-arrow-right-circle: Command Post Networking & Internet Guide](resources/communications/icp-networking-guide.md)
+        - [:material-arrow-right-circle: GL.iNet Travel Routers for Command Posts](resources/communications/gl-inet-travel-routers.md)
+        - [:material-arrow-right-circle: Starlink for Ground SAR](resources/communications/starlink-for-gsar.md)
+    - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
+
 ???+ note "October 20, 2026 — SAR Command Assist"
     **What Changed:** Added a new resource guide for **SAR Command Assist (SAR Assist)** — a free Windows application that automates the full ICS paperwork stack during a live SAR task. Covers ICS forms, reflex tasking, IAP generation, remote Internet Sync collaboration, D4H member import, communications logging, and the My SAR Assist mobile barcode sign-in companion app.
 

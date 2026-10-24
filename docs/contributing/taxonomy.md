@@ -50,4 +50,4 @@ Tags should be:
 - Specific to the technology, equipment, or concept
 
 Examples of standard tags:
-`caltopo`, `qgis`, `garmin`, `inreach`, `zoleo`, `rpas`, `drone`, `thermal`, `vhf`, `tetra`, `ics`, `lost-person-behavior`, `tracking`, `first-aid`, `winter-ops`, `swiftwater`, `rope-rescue`.
+`caltopo`, `qgis`, `garmin`, `inreach`, `zoleo`, `rpas`, `drone`, `thermal`, `vhf`, `tetra`, `ics`, `lost-person-behavior`, `tracking`, `first-aid`, `winter-ops`, `swiftwater`, `rope-rescue`, `networking`, `voip`, `guide`.

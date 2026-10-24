@@ -69,7 +69,11 @@ nav:
       - Mapping & GIS:
           - resources/mapping-gis/index.md
           - CalTopo Incident Map Template: resources/mapping-gis/caltopo-sar-incident-template.md
-      - Communications: resources/communications/index.md
+      - Communications:
+          - resources/communications/index.md
+          - Command Post Networking Guide: resources/communications/icp-networking-guide.md
+          - GL.iNet Travel Routers: resources/communications/gl-inet-travel-routers.md
+          - Starlink for Ground SAR: resources/communications/starlink-for-gsar.md
       - Search Management:
           - resources/search-management/index.md
           - SAR Command Assist: resources/search-management/sar-command-assist.md
