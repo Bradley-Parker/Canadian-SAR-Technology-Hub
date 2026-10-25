@@ -29,4 +29,12 @@ This section contains planning tools, statistical models, and operational framew
 
     [:material-arrow-right: View Resource](sar-command-assist.md){ .md-button .md-button--primary }
 
+-   :material-shield-lock:{ .lg .middle } **SCA Privacy & Data Security**
+
+    ---
+
+    Field-tested best practices for managing data security, Internet Sync, official police file delivery, and scrubbing subject PII before long-term storage.
+
+    [:material-arrow-right: View Privacy Guide](sar-command-assist-privacy-best-practices.md){ .md-button }
+
 </div>

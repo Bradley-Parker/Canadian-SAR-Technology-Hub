@@ -13,6 +13,27 @@ For minor typo corrections or administrative site fixes, see the [Git Commit His
 
 ### October 2026
 
+???+ note "October 24, 2026 — SAR Command Assist (SCA) Privacy & Data Security Best Practices"
+    **What Changed:** Added a dedicated operational best practice guide for data security, cloud synchronization, and subject privacy in **SAR Command Assist (SCA)**, combined SOPs from Canadian ground SAR jurisdictions. Emphasizes that SCA Internet Sync is strictly for active task collaboration rather than permanent storage, establishes local IMT hard drive storage protocols, details transmitting master PDF packages to the Police of Jurisdiction (POJ/IC), and walks through using the built-in 'Finish Incident' tool in SCA to permanently scrub subject PII before archiving.
+
+    - **Scope:** New operational guide under Search Management.
+    - **Resource:** [:material-arrow-right-circle: SAR Command Assist (SCA) Privacy & Data Security](resources/search-management/sar-command-assist-privacy-best-practices.md)
+    - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
+
+???+ note "October 24, 2026 — CalTopo (SARTopo) Overview"
+    **What Changed:** Added a foundational primer on **CalTopo (SARTopo)** for Canadian Ground SAR teams and Search Managers. Clarifies that CalTopo and SARTopo are identical unified systems, highlights key Canadian mapping layers and SAR tools, details offline mobile and local stand-alone server deployment for zero-cell areas, and outlines preferred pricing for all-volunteer SAR societies.
+
+    - **Scope:** New operational overview under Mapping & GIS.
+    - **Resource:** [:material-arrow-right-circle: CalTopo (SARTopo) Overview](resources/mapping-gis/caltopo.md)
+    - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
+
+???+ note "October 24, 2026 — CalTopo Privacy & Information Management Best Practices"
+    **What Changed:** Added a practical, field-tested best practice guide for managing personal privacy, clue identifiers, and map security settings in CalTopo (SARTopo). Synthesizes operational procedures from Canadian SAR teams and Police of Jurisdiction (POJ) partners, covering cross-border cloud hosting, alphanumeric clue naming, secret vs. private map sharing, and SAR Command Assist (SCA) synchronization considerations.
+
+    - **Scope:** New operational guide under Mapping & GIS.
+    - **Resource:** [:material-arrow-right-circle: CalTopo Privacy and Information Management](resources/mapping-gis/caltopo-privacy-best-practices.md)
+    - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
+
 ???+ note "October 20, 2026 — SAR Command Assist"
     **What Changed:** Added a new resource guide for **SAR Command Assist (SAR Assist)** — a free Windows application that automates the full ICS paperwork stack during a live SAR task. Covers ICS forms, reflex tasking, IAP generation, remote Internet Sync collaboration, D4H member import, communications logging, and the My SAR Assist mobile barcode sign-in companion app.
 

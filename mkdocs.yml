@@ -68,11 +68,14 @@ nav:
   - Resources:
       - Mapping & GIS:
           - resources/mapping-gis/index.md
+          - CalTopo (SARTopo) Overview: resources/mapping-gis/caltopo.md
           - CalTopo Incident Map Template: resources/mapping-gis/caltopo-sar-incident-template.md
+          - CalTopo Privacy Best Practices: resources/mapping-gis/caltopo-privacy-best-practices.md
       - Communications: resources/communications/index.md
       - Search Management:
           - resources/search-management/index.md
           - SAR Command Assist: resources/search-management/sar-command-assist.md
+          - SCA Privacy & Data Security: resources/search-management/sar-command-assist-privacy-best-practices.md
       - Team Administration:
           - resources/team-administration/index.md
           - SAR Duty: resources/team-administration/sar-duty.md

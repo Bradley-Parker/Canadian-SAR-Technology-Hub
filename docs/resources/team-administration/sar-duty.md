@@ -9,6 +9,7 @@ tags:
   - "administration"
   - "id-cards"
   - "open-source"
+  - "free"
 maintainer: "Canadian SAR Technology Hub"
 date_updated: 2026-10-19
 ---
