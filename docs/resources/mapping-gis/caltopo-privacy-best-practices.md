@@ -225,7 +225,3 @@ Before sharing your map link with field teams or projecting it at briefing, run 
 - [:material-clipboard-text-clock: SAR Command Assist (SCA)](../search-management/sar-command-assist.md): Field-tested offline ICS paperwork management, operational period planning, and CalTopo integration.
 
 ---
-
-## Thanks & Credits
-
-These information management practices reflect the collective experience of Canadian Ground Search and Rescue practitioners, search managers, and GIS specialists across British Columbia, Alberta, Ontario, and New Brunswick, working in close collaboration with provincial SAR associations and partner police agencies.
