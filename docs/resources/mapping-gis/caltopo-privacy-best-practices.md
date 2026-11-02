@@ -5,10 +5,11 @@ category: "Mapping & GIS"
 jurisdiction:
   - "National"
 tags:
-  - "caltopo"
-  - "privacy"
   - "mapping"
-  - "search-management"
+  - "caltopo"
+  - "search-manager"
+  - "guide"
+  - "privacy"
 maintainer: "Canadian SAR Tech Hub Community"
 date_updated: 2026-10-24
 ---

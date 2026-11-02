@@ -18,7 +18,11 @@ category: "Mapping & GIS" # Options: Mapping & GIS, Communications, Search Manag
 jurisdiction:
   - "National" # Options: National, BC, AB, SK, MB, ON, QC, NB, NS, PE, NL, YT, NT, NU
 tags:
-  - "relevant-tag"
+  - "mapping"          # Dimension 1 [Category Tag]: mapping, communications, search-management, etc.
+  - "specific-tool"    # Dimension 2 [Tool]: caltopo, avenza, d4h, etc.
+  - "search-manager"   # Dimension 3 [Role]: ground-searcher, search-manager, team-leader (optional)
+  - "guide"            # Dimension 4 [Type]: template, guide, review, or overview
+  # - "free"           # Dimension 5 [Special Descriptor]: only when truly relevant (free, open-source, etc.)
 maintainer: "Your Name or @GitHubUsername"
 date_updated: YYYY-MM-DD
 ---

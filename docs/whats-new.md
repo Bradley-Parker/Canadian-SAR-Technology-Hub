@@ -34,6 +34,13 @@ For minor typo corrections or administrative site fixes, see the [Git Commit His
     - **Resource:** [:material-arrow-right-circle: CalTopo Privacy and Information Management](resources/mapping-gis/caltopo-privacy-best-practices.md)
     - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
 
+???+ note "October 24, 2026 — Avenza Maps Overview"
+    **What Changed:** Added a new resource page for Avenza Maps, an offline mapping app familiar to many agencies, providing downloadable maps and custom imports.
+    
+    - **Scope:** New operational overview under Mapping & GIS.
+    - **Resource:** [:material-arrow-right-circle: Avenza Maps Overview](resources/mapping-gis/avenza.md)
+    - **Technical Diff:** [:octicons-git-commit-16: View Commit History](https://github.com/Bradley-Parker/Canadain-SAR-Technology-Hub/commits/main){ .md-button }
+
 ???+ note "October 20, 2026 — SAR Command Assist"
     **What Changed:** Added a new resource guide for **SAR Command Assist (SAR Assist)** — a free Windows application that automates the full ICS paperwork stack during a live SAR task. Covers ICS forms, reflex tasking, IAP generation, remote Internet Sync collaboration, D4H member import, communications logging, and the My SAR Assist mobile barcode sign-in companion app.
 

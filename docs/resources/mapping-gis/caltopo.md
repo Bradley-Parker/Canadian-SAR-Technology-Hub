@@ -5,8 +5,9 @@ category: "Mapping & GIS"
 jurisdiction:
   - "National"
 tags:
-  - "caltopo"
   - "mapping"
+  - "caltopo"
+  - "overview"
 maintainer: "Canadian SAR Technology Hub"
 date_updated: 2026-10-24
 ---

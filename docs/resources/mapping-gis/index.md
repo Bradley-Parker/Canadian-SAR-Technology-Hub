@@ -45,6 +45,13 @@ This section contains operational templates, workflows, and standards for search
 
     [:material-arrow-right: View Privacy Guide](caltopo-privacy-best-practices.md)
 
+-   :material-map-search:{ .lg .middle } **[Avenza Maps Overview](avenza.md)**
+
+    ---
+
+    A user‑friendly offline mapping app used by many agencies; provides downloadable maps and custom imports.
+
+    [:material-arrow-right: View Avenza Overview](avenza.md)
 </div>
 
 - To add a new mapping tool, see the [Contribution Guide](../../contributing/index.md).
