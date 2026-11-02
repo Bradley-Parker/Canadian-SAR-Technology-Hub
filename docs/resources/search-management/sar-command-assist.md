@@ -6,7 +6,9 @@ jurisdiction:
   - "National"
 tags:
   - "search-management"
-  - "team-assignments"
+  - "sar-command-assist"
+  - "search-manager"
+  - "guide"
   - "free"
 maintainer: "Dylan Baker, Campbell River SAR / BCSARA"
 date_updated: 2026-10-24

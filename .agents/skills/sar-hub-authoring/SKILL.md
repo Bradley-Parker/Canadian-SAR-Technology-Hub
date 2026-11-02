@@ -49,8 +49,11 @@ category: "Mapping & GIS" # Options: Mapping & GIS, Communications, Search Manag
 jurisdiction:
   - "National" # Options: National, BC, AB, SK, MB, ON, QC, NB, NS, PE, NL, YT, NT, NU
 tags:
-  - "relevant-tag-1"
-  - "relevant-tag-2"
+  - "mapping"          # Dimension 1 [Category Tag]: mapping, search-management, communications, etc.
+  - "avenza"           # Dimension 2 [Tool]: caltopo, avenza, d4h, etc.
+  - "ground-searcher"  # Dimension 3 [Role]: ground-searcher, search-manager, team-leader, etc. (optional)
+  - "overview"         # Dimension 4 [Type]: template, guide, review, overview
+  # - "free"           # Dimension 5 [Special Descriptor]: only when truly relevant (e.g., free, open-source)
 maintainer: "Team Name or Contributor"
 date_updated: YYYY-MM-DD
 ---
@@ -129,7 +132,31 @@ date_updated: YYYY-MM-DD
 
 ---
 
-## 3. Asset Management Rules
+## 3. Tagging Discipline: The 4+1 Dimension Framework
+
+We do **not** invent tags on the fly or create tags "just for fun." Too many arbitrary tags make tag navigation noisy and unhelpful.
+
+Aim for **up to 4 tags** per resource (one per core dimension), with an optional 5th tag only when there is a strong operational reason (such as highlighting that a solution is `free` or `open-source`). Avoid going higher than 4 tags without a clear reason.
+
+### The Core Dimensions
+
+| Dimension | Question It Answers | Allowed Values / Examples |
+| :--- | :--- | :--- |
+| **1. Category** | *What high-level operational domain is this? (Helps find it via the tags menu)* | `mapping`, `communications`, `search-management`, `field-hardware`, `training-standards`, `medical-evacuation`, `team-admin` |
+| **2. Tool** | *What specific software, app, or hardware is featured?* | `caltopo`, `avenza`, `qgis`, `d4h`, `sar-command-assist`, `inreach`, `garmin`, `zoleo`, `rpas`, `flir` |
+| **3. Role** | *Who uses this or who is the primary operational audience?* | `search-manager`, `ground-searcher`, `team-leader`, `incident-commander`, `equipment-officer`, `team-admin` |
+| **4. Type ("What is it?")** | *What kind of resource is this document?* | **`template`** (downloadable operational template/config)<br>**`guide`** (practical procedural how-to / SOP)<br>**`review`** (field-tested assessment of gear or software)<br>**`overview`** (high-level introduction to a platform) |
+| **5. Special Descriptor** *(Optional)* | *Is there a critical field or licensing attribute users filter by?* | `free`, `open-source`, `offline-first`, `privacy` |
+
+### Tagging Rules
+1. **Target 3 to 4 Tags**: Stick to the primary dimensions (e.g. `["mapping", "avenza", "overview"]` or `["mapping", "caltopo", "search-manager", "template"]`). Only add a 5th tag if there is a distinct benefit.
+2. **One Tag Per Dimension**: Pick at most one tag per dimension so tags remain balanced and searchable.
+3. **No Fluff or Arbitrary Tags**: Avoid vague junk tags like `handouts`, `tips`, `cool`, `team-assignments`, or `forms`.
+4. **Controlled Vocabulary**: Always draw tags from `docs/contributing/taxonomy.md` so in-browser search and tag filtering remain clean.
+
+---
+
+## 4. Asset Management Rules
 
 1. **Keep Assets Independent**:
    Always save downloadable files (.geojson, .gpx, .kml, .docx, .xlsx, .pdf) in `docs/assets/files/`:
@@ -141,12 +168,12 @@ date_updated: YYYY-MM-DD
 
 ---
 
-## 4. The 5-Step Publishing Checklist
+## 5. The 5-Step Publishing Checklist
 
 Every time a new resource is added to the hub, execute all 5 steps:
 
 - [ ] **Step 1: Save the asset files** into `docs/assets/files/<subfolder>/` using lowercase hyphenated names.
-- [ ] **Step 2: Create the resource page** under `docs/resources/<category>/<resource-slug>.md` using the standard frontmatter and plain-language anatomy.
+- [ ] **Step 2: Create the resource page** under `docs/resources/<category>/<resource-slug>.md` using standard frontmatter, strict tagging rules (1–3 tags, no junk/category duplicates), and plain-language anatomy.
 - [ ] **Step 3: Update the Category Directory Index** in `docs/resources/<category>/index.md` by adding a card linking to the new page.
 - [ ] **Step 4: Update Site Navigation** in `mkdocs.yml` under `nav > Resources > <Category>`.
 - [ ] **Step 5: Log in the Changelog** in `docs/whats-new.md` under the current month with a concise summary and link.

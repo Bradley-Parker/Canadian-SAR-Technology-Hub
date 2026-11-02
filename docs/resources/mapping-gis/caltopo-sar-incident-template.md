@@ -5,10 +5,10 @@ category: "Mapping & GIS"
 jurisdiction:
   - "National"
 tags:
-  - "caltopo"
   - "mapping"
-  - "search-management"
-  - "templates"
+  - "caltopo"
+  - "search-manager"
+  - "template"
 maintainer: "Bradley Parker (NB)"
 date_updated: 2026-10-24
 ---

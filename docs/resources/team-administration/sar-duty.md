@@ -5,11 +5,11 @@ category: "Team Administration"
 jurisdiction:
   - "National"
 tags:
+  - "team-admin"
   - "d4h"
-  - "administration"
-  - "id-cards"
-  - "open-source"
+  - "guide"
   - "free"
+  - "open-source"
 maintainer: "Canadian SAR Technology Hub"
 date_updated: 2026-10-19
 ---

@@ -5,9 +5,11 @@ category: "Search Management"
 jurisdiction:
   - "National"
 tags:
-  - "sar-command-assist"
-  - "privacy"
   - "search-management"
+  - "sar-command-assist"
+  - "search-manager"
+  - "guide"
+  - "privacy"
 maintainer: "Canadian SAR Tech Hub Community"
 date_updated: 2026-10-24
 ---
