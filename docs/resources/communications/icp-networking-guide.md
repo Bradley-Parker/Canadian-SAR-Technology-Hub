@@ -200,7 +200,7 @@ To dive deeper into the specific equipment and services mentioned here, explore 
 
     Field deployment, 12V power conversions, dish placement, and managing Canadian standby billing.
 
-    [:material-arrow-right-circle: Read Starlink Guide](starlink-for-gsar.md)
+    [:material-arrow-right-circle: Jump to Section](#method-3-portable-satellite-starlink)
 
 -   :material-phone-voip:{ .lg .middle } **VoIP Command Post & Duty Phones**
 
@@ -208,7 +208,7 @@ To dive deeper into the specific equipment and services mentioned here, explore 
 
     How to replace $45/mo cell lines with a $2/mo VoIP.ms setup featuring voicemail-to-email and search manager blast paging.
 
-    [:material-arrow-right-circle: Read VoIP Phone Guide](voip-command-post-phones.md)
+    *(Field guide in development)*
 
 </div>
 

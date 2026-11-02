@@ -1,19 +1,17 @@
-﻿---
+---
 title: "SAR Command Assist — ICS Paperwork Made Faster"
 description: "A free Windows app that automates ICS forms and team assignments for SAR incident command teams, cutting paperwork time from hours to minutes during a live task."
 category: "Search Management"
 jurisdiction:
   - "National"
 tags:
-  - "ics-forms"
-  - "incident-command"
-  - "iap"
-  - "team-assignments"
-  - "windows"
+  - "search-management"
+  - "sar-command-assist"
+  - "search-manager"
+  - "guide"
   - "free"
-  - "bcsara"
 maintainer: "Dylan Baker, Campbell River SAR / BCSARA"
-date_updated: 2026-10-20
+date_updated: 2026-10-24
 ---
 
 # SAR Command Assist — ICS Paperwork Made Faster
@@ -230,6 +228,14 @@ SAR Assist has a full set of training materials. This page is just an introducti
 </div>
 
 You can also connect with other users and the development team on the [SAR Assist Discord](https://discord.gg/aRpjFh45WG).
+
+---
+
+## Related Hub Resources
+
+- [:material-shield-lock: SAR Command Assist (SCA) Privacy & Data Security](sar-command-assist-privacy-best-practices.md): Field-tested best practices for managing data storage, Internet Sync, police file delivery, and automated PII scrubbing.
+- [:material-map-legend: CalTopo Incident Map Template](../mapping-gis/caltopo-sar-incident-template.md): Aligned folder structures and downloadable GeoJSON templates that match SCA default map folders.
+- [:material-shield-account: CalTopo Privacy & Information Management](../mapping-gis/caltopo-privacy-best-practices.md): Best practices for preventing sensitive ICS notes and personal data from synchronizing to cloud maps.
 
 ---
 

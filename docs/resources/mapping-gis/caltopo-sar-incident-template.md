@@ -5,12 +5,12 @@ category: "Mapping & GIS"
 jurisdiction:
   - "National"
 tags:
-  - "caltopo"
   - "mapping"
-  - "search-management"
-  - "templates"
+  - "caltopo"
+  - "search-manager"
+  - "template"
 maintainer: "Bradley Parker (NB)"
-date_updated: 2026-10-19
+date_updated: 2026-10-24
 ---
 
 # CalTopo (SARTopo) Incident Map Template and Folder Structure
@@ -136,6 +136,9 @@ Make sure the eye icon on `01 Safety Issues` stays turned on. When you print pap
 Before teams leave the command post and lose cell service:
 - Remind searchers to open the CalTopo app on their phones and download the offline map layer for the search area.
 - Make sure they know how to record their track so it syncs back when they return to base.
+
+### 6. Protect Subject & Team Privacy
+Avoid typing subject names, personal phone numbers, or detailed investigative notes on live maps. For recommended clue naming conventions and map sharing security levels, see the [CalTopo Privacy and Information Management Best Practices](caltopo-privacy-best-practices.md).
 
 ---
 

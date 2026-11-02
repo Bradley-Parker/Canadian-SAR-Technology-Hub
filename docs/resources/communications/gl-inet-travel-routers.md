@@ -153,4 +153,4 @@ GL.iNet offers several models. For search and rescue command post kits, three mo
 ## Related Resources
 
 - [:material-arrow-right-circle: Command Post Networking & Internet Guide](icp-networking-guide.md) — The complete operational guide to field networks, data budgeting, and cost recovery.
-- [:material-arrow-right-circle: Starlink for Ground SAR](starlink-for-gsar.md) — Deploying satellite broadband to the command router in remote areas.
+- [:material-arrow-right-circle: Starlink Deployment & Incident Playbook](icp-networking-guide.md#method-3-portable-satellite-starlink) — Deploying satellite broadband to the command router in remote areas.
