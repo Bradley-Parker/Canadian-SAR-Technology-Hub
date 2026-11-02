@@ -42,7 +42,7 @@ This section covers hardware, frequencies, satellite protocols, and field networ
 
     Deploying portable satellite broadband in remote areas, 12V cold-weather power setups, data budgeting, and Canadian cost-recovery strategies.
 
-    [:material-arrow-right: View Guide](starlink-for-gsar.md){ .md-button }
+    [:material-arrow-right: View in Networking Guide](icp-networking-guide.md#method-3-portable-satellite-starlink){ .md-button }
 
 </div>
 
